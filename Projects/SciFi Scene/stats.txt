@@ -1,4 +1,4 @@
-Triangles: 1.5M
+Triangles: 1.5M (triangle optimization was not a priority as it was a showcase scene)
 
 Materials: 26
 

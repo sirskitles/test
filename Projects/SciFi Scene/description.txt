@@ -1,8 +1,8 @@
-Scifi Spaceship Scene
+CDW Scifi Hideout Scene
 ---
-Scifi scene created for UE5 for a high school project.
+Scifi scene created for UE5 for a CDW JumpStarter Project, this project was only intended to be a showcase peice and was never designed to be used for an actual game project.
 ---
-Blender, UE5
+Blender, UE5, Adobe Photoshop, Adobe Substance Painter
 ---
 https://cdnb.artstation.com/p/assets/images/images/070/181/415/large/lachlan-cooked.jpg?1701933705
 ---
