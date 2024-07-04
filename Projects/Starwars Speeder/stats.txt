@@ -1,0 +1,13 @@
+Triangles: 27,000
+
+Materials: 2
+
+Texture Size: 1024x1024
+
+Texel Density: 
+
+Workflow: 
+
+Target Engine: Unity
+
+Collaborators:

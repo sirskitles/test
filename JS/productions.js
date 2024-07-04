@@ -46,7 +46,7 @@ function createProductionCard(title, company, time, thumbnail, description) {
     return card;
 }
 
-// Fetch and append production cards on DOM content load
+
 document.addEventListener("DOMContentLoaded", async () => {
     const productionsContainer = document.querySelector(".productions-subpanels");
     if (!productionsContainer) {
