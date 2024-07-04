@@ -1,0 +1,9 @@
+Scifi Spaceship Scene
+---
+Scifi scene created for UE5 for a high school project.
+---
+Blender, UE5
+---
+https://cdnb.artstation.com/p/assets/images/images/070/181/415/large/lachlan-cooked.jpg?1701933705
+---
+name of project html ("xyz.html" for example - make sure you rename the template html)
