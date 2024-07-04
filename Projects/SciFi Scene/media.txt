@@ -1,16 +1,16 @@
-https://cdnb.artstation.com/p/assets/images/images/070/181/415/large/lachlan-cooked.jpg?1701933705
+https://previews.dropbox.com/p/thumb/ACUS7rq9woBV906o2JcaKN5XWaA63neyNqL8BzD93qp6qtWzB-W_Wc3RnxWJwHBqzDA1laMUuH5q386scn7tb4ZJR90ioO7kspD_gPKG89cfj5sjHxd1GVgvGmCjbZiilYiBss4jIkmY7bq9gGzZ728Cd5MTTmMjvYipu_mWlGZc3cEGb2LfOnT9vM3r-NZH69b5oxixT0_TzKHVOHZxbSFHvEuK2XYupOq-81i6GndT3QxnGz9kyoO5JAscUFxAYgaXHs42uhzjGtW8RhXhd5q_orHhP1wasPtaqE2ZR_sNAsabimH3lVx5gbEOBo5dL1Uk05Z4bDdHMB9wc5R9HSbU/p.png
+why no Work
 
 https://example2.jpg
-Description for example2.jpg.
+OOBA BOOGA
 
-https://example3.gif
-These aren't real images but need replacing with your own.
+https://previews.dropbox.com/p/thumb/ACUS7rq9woBV906o2JcaKN5XWaA63neyNqL8BzD93qp6qtWzB-W_Wc3RnxWJwHBqzDA1laMUuH5q386scn7tb4ZJR90ioO7kspD_gPKG89cfj5sjHxd1GVgvGmCjbZiilYiBss4jIkmY7bq9gGzZ728Cd5MTTmMjvYipu_mWlGZc3cEGb2LfOnT9vM3r-NZH69b5oxixT0_TzKHVOHZxbSFHvEuK2XYupOq-81i6GndT3QxnGz9kyoO5JAscUFxAYgaXHs42uhzjGtW8RhXhd5q_orHhP1wasPtaqE2ZR_sNAsabimH3lVx5gbEOBo5dL1Uk05Z4bDdHMB9wc5R9HSbU/p.png
+EOEOOWOOWEOOWW
 
 https://examplevideo.mp4
-MP4's are also supported but like with images should be hosted somewhere like dropbox.
+TESTESTEST
 
+https://beforepic.png // https://afterpic.png
 
-https://cdnb.artstation.com/p/assets/images/images/077/684/743/large/lachlan-workshop.jpg?1720077774 // https://cdnb.artstation.com/p/assets/images/images/070/181/415/large/lachlan-cooked.jpg?1701933705
+starface emiojiidiid
 
-https://sketchfabexample.com 
-you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 

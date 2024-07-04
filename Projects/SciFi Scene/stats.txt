@@ -1,13 +1,13 @@
-Triangles: 
+Triangles: 1.5M
 
-Materials: 
+Materials: 26
 
-Texture Size: 
+Texture Size: 1024x1024
 
 Texel Density: 
 
 Workflow: 
 
-Target Engine: 
+Target Engine: UE5
 
 Collaborators:

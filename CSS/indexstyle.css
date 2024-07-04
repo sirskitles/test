@@ -15,7 +15,6 @@ html {
   -ms-overflow-style: none;  /* IE and Edge */
 }
 
-
 /* Body Styling */
 html, body {
   margin: 0;
@@ -24,9 +23,6 @@ html, body {
   height: 100%;
   overflow-x: hidden; /* Prevent horizontal overflow */
   box-sizing: border-box;
-}
-
-body {
   font-family: Montserrat, sans-serif;
   background-color: #121212;
   color: #d7d7d7;
@@ -100,15 +96,30 @@ h2 {
   color: #499bed;
 }
 
-.bottom-container {
+
+/* Bottom half */
+.bottom-container { 
   flex: 1;
   display: flex;
   justify-content: center;
   padding: 10px;
-  background-color: #151515;
+  background: radial-gradient(ellipse at bottom, #0d1d31 0%, #0c0d13 100%);
   border-radius: 5px;
   width: 100%;
   margin-top: 0; /* No margin at the top */
+  overflow: hidden;
+  min-height: 100vh;
+
+
+
+  
+}
+
+
+@keyframes blink {
+  50% {
+    opacity: 0.6;
+  }
 }
 
 @media (max-width: 600px) {
@@ -116,42 +127,37 @@ h2 {
     font-size: 14px; /* Adjust the base font size for better readability on small screens */
   }
   
-  h1 {
-      font-size: 18px; /* Adjust font size for mobile */
-      text-align: center; /* Center align text for better readability on mobile */
-  }
-
-  h2 {
-      font-size: 14px; /* Adjust font size for mobile */
-      text-align: center; /* Center align text for better readability on mobile */
+  h1, h2 {
+    font-size: 18px; /* Adjust font size for mobile */
+    text-align: center; /* Center align text for better readability on mobile */
   }
 
   .main-container {
-      overflow-y: auto; /* Ensure main container scrolls if necessary */
-      padding-top: 5px;/* Add padding for better spacing on mobile */
+    overflow-y: auto; /* Ensure main container scrolls if necessary */
+    padding-top: 5px; /* Add padding for better spacing on mobile */
   }
 
   .top-container {
-      padding-top: 5px; /* Adjust padding for mobile */
-      border-bottom: 1px solid #2e2e2e;
+    padding-top: 5px; /* Adjust padding for mobile */
+    border-bottom: 1px solid #2e2e2e;
   }
 
   .navigation-buttons {
-    flex-direction: row; /* Stack navigation buttons vertically on mobile */
+    flex-direction: row; /* Stack navigation buttons horizontally on mobile */
     gap: 0.5rem; /* Adjust gap for better spacing on mobile */
-}
+  }
 
-.nav-button {
+  .nav-button {
     font-size: 12px; /* Adjust font size for navigation buttons on mobile */
     padding: 8px; /* Reduce padding for better fit on mobile */
     margin-right: 0; /* Remove margin for better fit on mobile */
     border-radius: .5em .5em 0 0; /* Adjust border radius for better look on mobile */
-}
+  }
 
   .bottom-container {
-      background-color: #171717;
-      padding: 8px; /* Adjust padding for mobile */
-      border-radius: 5px; /* Maintain border radius for consistent look */
-      margin-top: 0; /* Add margin at the top for spacing */
+    background-color: #171717;
+    padding: 8px; /* Adjust padding for mobile */
+    border-radius: 5px; /* Maintain border radius for consistent look */
+    margin-top: 0; /* Add margin at the top for spacing */
   }
 }

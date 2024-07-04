@@ -9,7 +9,7 @@
 
 @keyframes slideInLeft {
   from {
-    transform: translateX(-30px);
+    transform: translateX(-190px);
     opacity: 0;
   }
   to {
@@ -24,20 +24,7 @@
   position: relative;
   cursor: pointer;
   opacity: 1;
-  transition: opacity 0.3s;
-  background-color: #1e1e1e;
-  width: 100%; /* Full width of grid item */
-  padding-top: 100%; /* Makes the height equal to the width, keeping it square */
-  position: relative; /* Contain absolutely positioned elements */
-}
-
-.thumbnail {
-  border-radius: 0.2em;
-  overflow: hidden;
-  position: relative;
-  cursor: pointer;
-  opacity: 1;
-  transition: opacity 0.3s;
+  transition: opacity 0.3s, transform 0.3s, filter 0.3s; /* Add transform and filter */
   background-color: #1e1e1e;
   width: 100%; /* Full width of grid item */
   padding-top: 100%; /* Makes the height equal to the width, keeping it square */
@@ -53,6 +40,11 @@
   display: block;
   object-fit: cover;
   object-position: center center;
+  transition: transform 0.3s; /* Add transition for smooth scaling */
+}
+
+.thumbnail:hover {
+  transform: scale(1.1) rotate(0.4deg); /* Scale up by 10% and rotate slightly */
 }
 
 .thumbnail-title {
@@ -65,7 +57,6 @@
   font-size: 18px;
   opacity: 0;
   transition: opacity 0.5s;
-  
 }
 
 .thumbnail:hover .thumbnail-title {
@@ -134,7 +125,6 @@
   background-color: #1e1e1e;
   color: #499bed;
 }
-
 
 /* Responsive Design for small screens */
 @media screen and (min-width: 548px) and (max-width: 1280px) {
