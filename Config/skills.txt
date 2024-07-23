@@ -1,6 +1,9 @@
 3D Modelling
 Video Editing
 Motion Graphics
-3d Texturing
+Node Based Texturing
+Texturing
+Sclupting
 C# Programming
-LuaU Programming
+Lua Programming
+Web Development

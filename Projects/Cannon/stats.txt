@@ -1,8 +1,8 @@
 Triangles: 27,000
 
-Materials: 2
+Materials: 1
 
-Texture Size: 1024x1024
+Texture Size: 4,096x4,096
 
 Texel Density: 
 
@@ -10,4 +10,4 @@ Workflow:
 
 Target Engine: Unity
 
-Collaborators:
+Collaborators: jtressle (sourced 3d photoscan for the backdrop)

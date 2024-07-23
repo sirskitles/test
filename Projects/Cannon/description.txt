@@ -1,8 +1,8 @@
 Cannon
 ---
-Project Description
+Hard surface Cannon model for a unity project commission. cannon is quite detailed with a rough wooden texture.
 ---
-Software Tags - separated by commas (marmoset toolbag, unity, UE5, Blender, 3ds Max)
+Blender, Adobe Substance Painter, Photoshop
 ---
 https://previews.dropbox.com/p/thumb/ACV0ChXc7H65h0Vn-MGLJNCQEglh0UDLsdM7SBr4zKVDAejNir72lNFzYtk1c8t2tjJThxFEfuxCFFI99FnPS2n-QEM4Thc6sFA-f10cGHkgt_AyxZY4zvZWsdX6n2JDxqOPVyzjBdC4LoWUCH-T3_iZ5QCtTJr4OSM-6ryULiTH5tCdHHo1t3wgcgZpIpfgowjlsiIA11wDMOARDEyNZgHsV36rnCRPr2hPBVLfbpDQtEVL3cpc0banza2KBkOuUd2IQX47wmQ6SDscvAuB9oPQqK9JSCWA4Q0sm1t7RojkAK59CCkS5gbFaZOPapBh5wNCYBLtHcEpNO42XZ894Un9/p.png
 ---

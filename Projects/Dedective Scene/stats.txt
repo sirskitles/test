@@ -1,0 +1,13 @@
+Triangles: 300,000
+
+Materials: 10+ (Scene has alot of assets and textures)
+
+Texture Size: 1024x1024
+
+Texel Density: 
+
+Workflow: 
+
+Target Engine: Unity
+
+Collaborators:
